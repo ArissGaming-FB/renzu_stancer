@@ -1,6 +1,8 @@
 # renzu_stancer
 - Fivem Stancer - Vehicle Adjustable Wheel Offsets, Rotatin and Suspension Height
 
+# Updated to work on QBCORE with item 
+
 # Feats
 - Item Supported (Install Stancer Kit)
 - Multiple Framework (QBCORE, ESX, Standalone)
