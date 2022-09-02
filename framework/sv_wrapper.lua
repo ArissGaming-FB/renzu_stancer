@@ -6,7 +6,7 @@ function Initialized()
 		QBCore = true
 		RegisterUsableItem = ESX.RegisterUsableItem
 	elseif Config.Framework == 'QBCORE' then
-		QBCore = exports['qb-core']:GetSharedObject()
+		QBCore = exports['qb-core']:GetCoreObject()--QBCore = exports['qb-core']:GetSharedObject()
 		ESX = true
 		RegisterUsableItem = QBCore.Functions.CreateUseableItem
 	else
@@ -101,7 +101,7 @@ function SqlFunc(plugin,type,query,var)
         end)
     end
     if type == 'fetchAll' and plugin == 'oxmysql' then
-		exports['oxmysql']:fetch(query, var, function(result)
+		exports['oxmysql']:execute(query, var, function(result)
 			wait:resolve(result)
 		end)
     end

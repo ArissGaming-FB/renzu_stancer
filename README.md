@@ -39,6 +39,15 @@
 # dependency 
 - ESX,QBCORE
 
+# QBCORE Item
+
+- add to qb-core/shared/items.lua
+
+	--Renzu-stancer
+	["stancerkit"] 				 = {["name"] = "stancerkit", 				["label"] = "Stance Kit", 		["weight"] = 0, 		["type"] = "item", 		["image"] = "suspension4.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = "Give Your Vehicle A Stance!"},
+
+add image from folder to qb-inventory/html/images
+
 # Exports for advanced usage
 
 - Server Exports
