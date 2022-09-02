@@ -18,6 +18,13 @@
 ![image](https://user-images.githubusercontent.com/82306584/138594316-54f0b7ee-a20c-4d6e-9186-983409461ebb.png)
 ![image](https://user-images.githubusercontent.com/82306584/138594321-f4467b1f-19fd-4ce3-99a7-dc99243f7f3b.png)
 
+BEFORE STANCE
+![image](https://cdn.discordapp.com/attachments/695011692022726768/1015399817133961357/unknown.png)
+AFTER STANCE
+![image](https://cdn.discordapp.com/attachments/695011692022726768/1015399278459486208/unknown.png)
+RESMON
+![image](https://cdn.discordapp.com/attachments/695011692022726768/1015399279008956446/unknown.png)
+
 
 # Install
 - Installation:
